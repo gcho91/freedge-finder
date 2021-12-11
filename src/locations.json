@@ -1,0 +1,25 @@
+{
+   "fridges":[
+      {
+         "name":"Maria's Bodgega",
+         "address":"Pleasant Grove, Dallas, TX",
+         "fridge":false,
+         "pantry":true,
+         "contactPerson":"Ria Cho"
+      },
+      {
+         "name":"Funky Town Fridge",
+         "address":"Fort Worth, TX",
+         "fridge":true,
+         "pantry":true,
+         "contactPerson":"Funky Town Fridge"
+      },
+      {
+         "name":"Test Location Fridge",
+         "address":"Dallas, TX",
+         "fridge":true,
+         "pantry":true,
+         "contactPerson":"Community Leader"
+      }
+   ]
+}
